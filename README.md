@@ -25,7 +25,7 @@ link : https://huggingface.co/datasets/jfleg
 
 Sample: 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61https://github.com/vivekalex61/grammar_checker/main/images/dataset%20samples.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/grammar_checker/main/images/dataset%20samples.png)
 
 
 
@@ -59,7 +59,7 @@ T5, or Text-to-Text Transfer Transformer, is a Transformer based architecture th
 
 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61https://github.com/vivekalex61/grammar_checker/main/images/t5.jpg)
+![alt text](https://raw.githubusercontent.com/vivekalex61/grammar_checker/main/images/t5.jpg)
 
 
 
