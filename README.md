@@ -11,7 +11,6 @@ Grammar correction is a common task in NLP. Perhaps you want to provide recommen
 
 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/insightsearch/master/test/overall_sentiments.png)
 
 ## Overview 
 - Datasets and Data-Loading
@@ -26,7 +25,7 @@ link : https://huggingface.co/datasets/jfleg
 
 Sample: 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/insightsearch/master/test/overall_sentiments.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61https://github.com/vivekalex61/grammar_checker/main/images/dataset%20samples.png)
 
 
 
@@ -60,7 +59,7 @@ T5, or Text-to-Text Transfer Transformer, is a Transformer based architecture th
 
 
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/insightsearch/master/test/overall_sentiments.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61https://github.com/vivekalex61/grammar_checker/main/images/t5.jpg)
 
 
 
