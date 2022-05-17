@@ -34,13 +34,10 @@ Sample:
  
 1)Removing unwanted symbols and values
 
-
+2)Adding 'grammar:' as starting word for every training data samples
 
 
 ### Model building and training
-
-
-
 
 
 #### 1)T5 transformer
