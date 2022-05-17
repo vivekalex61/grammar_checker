@@ -31,14 +31,8 @@ Sample:
 
 ### Data Preprocessing
  Preprocessing of data includes 
- 1)Removing unwanted symbols and values
  
-
-### Visualization of data after the preprocessing 
-
-![alt text](https://raw.githubusercontent.com/vivekalex61/insightsearch/master/test/overall_sentiments.png)
-
-![alt text](https://raw.githubusercontent.com/vivekalex61/insightsearch/master/test/overall_sentiments.png)
+1)Removing unwanted symbols and values
 
 
 
@@ -61,6 +55,14 @@ T5, or Text-to-Text Transfer Transformer, is a Transformer based architecture th
 
 ![alt text](https://raw.githubusercontent.com/vivekalex61/grammar_checker/main/images/t5.jpg)
 
+
+#### Training
+
+1)Tokenizing texts using T5 tokenizer
+
+2)Configuring the model
+
+3)Train model
 
 
 ## Results
